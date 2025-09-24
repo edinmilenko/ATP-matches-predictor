@@ -1,0 +1,3 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Daniil Medvedev,0.6723803,0.32761967,1
+Alexander Zverev,Carlos Alcaraz,0.4934925,0.5065075,0

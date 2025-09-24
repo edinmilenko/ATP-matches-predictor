@@ -1,0 +1,5 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Alex De Minaur,0.73210627,0.26789373,1
+Taylor Fritz,Daniil Medvedev,0.46001303,0.53998697,0
+Novak Djokovic,Carlos Alcaraz,0.36490497,0.635095,0
+Casper Ruud,Alexander Zverev,0.3496014,0.6503986,0

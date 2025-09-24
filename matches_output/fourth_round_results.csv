@@ -1,0 +1,9 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Holger Rune,0.7339907,0.26600927,1
+Stefanos Tsitsipas,Alex De Minaur,0.49005416,0.50994587,0
+Taylor Fritz,Lorenzo Musetti,0.64329123,0.35670877,1
+Andrey Rublev,Daniil Medvedev,0.39182955,0.60817045,0
+Novak Djokovic,Grigor Dimitrov,0.59619594,0.40380406,1
+Jack Draper,Carlos Alcaraz,0.2908396,0.7091604,0
+Casper Ruud,Tommy Paul,0.59783834,0.40216166,1
+Ugo Humbert,Alexander Zverev,0.3006697,0.69933033,0

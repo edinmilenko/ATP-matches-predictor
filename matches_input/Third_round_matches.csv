@@ -1,0 +1,17 @@
+surface,tourney_level,round,draw_size,tourney_date_epoch,player_A_name,player_B_name,player_A_hand,player_B_hand,player_A_age,player_B_age,age_diff,player_A_rank,player_B_rank,rank_diff,player_A_rank_points,player_B_rank_points,rank_points_diff
+Hard,G,R32,128,1736640000,Jannik Sinner,Flavio Cobolli,R,R,23.4,22.7,0.7,1,32,-31,11830,1472,10358
+Hard,G,R32,128,1736640000,Hubert Hurkacz,Holger Rune,R,R,27.9,21.8,6.1,16,13,3,2640,3025,-385
+Hard,G,R32,128,1736640000,Stefanos Tsitsipas,Karen Khachanov,R,R,26.5,28.7,-2.2,11,19,-8,3165,2410,755
+Hard,G,R32,128,1736640000,Francisco Cerundolo,Alex De Minaur,R,R,26.5,25.9,0.6,30,9,21,1620,3745,-2125
+Hard,G,R32,128,1736640000,Taylor Fritz,Giovanni Mpetshi Perricard,R,R,27.3,21.5,5.8,4,31,-27,5100,1561,3539
+Hard,G,R32,128,1736640000,Ben Shelton,Lorenzo Musetti,L,R,22.3,22.8,-0.5,21,17,4,2330,2600,-270
+Hard,G,R32,128,1736640000,Andrey Rublev,Frances Tiafoe,R,R,27.3,27,0.3,8,18,-10,3760,2585,1175
+Hard,G,R32,128,1736640000,Alexei Popyrin,Daniil Medvedev,R,R,26.4,28.9,-2.5,24,5,19,1865,5030,-3165
+Hard,G,R32,128,1736640000,Novak Djokovic,Tomas Machac,R,R,37.7,24.3,13.4,7,25,-18,3910,1758,2152
+Hard,G,R32,128,1736640000,Jiri Lehecka,Grigor Dimitrov,R,R,23.2,33.7,-10.5,28,10,18,1660,3350,-1690
+Hard,G,R32,128,1736640000,Jack Draper,Sebastian Korda,L,R,23.1,24.5,-1.4,15,22,-7,2685,1985,700
+Hard,G,R32,128,1736640000,Jordan Thompson,Carlos Alcaraz,R,R,30.8,21.8,9,26,3,23,1745,7010,-5265
+Hard,G,R32,128,1736640000,Casper Ruud,Felix Auger Aliassime,R,R,26.1,24.4,1.7,6,29,-23,4255,1635,2620
+Hard,G,R32,128,1736640000,Alejandro Tabilo,Tommy Paul,L,R,27.6,27.7,-0.1,23,12,11,1943,3145,-1202
+Hard,G,R32,128,1736640000,Ugo Humbert,Arthur Fils,L,R,26.6,20.6,6,14,20,-6,2765,2355,410
+Hard,G,R32,128,1736640000,Sebastian Baez,Alexander Zverev,R,R,24,27.8,-3.8,27,2,25,1690,7915,-6225

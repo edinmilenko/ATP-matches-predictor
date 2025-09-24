@@ -1,0 +1,9 @@
+surface,tourney_level,round,draw_size,tourney_date_epoch,player_A_name,player_B_name,player_A_hand,player_B_hand,player_A_age,player_B_age,age_diff,player_A_rank,player_B_rank,rank_diff,player_A_rank_points,player_B_rank_points,rank_points_diff
+Hard,G,R16,128,1736640000,Jannik Sinner,Holger Rune,R,R,23.4,21.8,1.6,1,13,-12,11830,3025,8805
+Hard,G,R16,128,1736640000,Stefanos Tsitsipas,Alex De Minaur,R,R,26.5,25.9,0.6,11,9,2,3165,3745,-580
+Hard,G,R16,128,1736640000,Taylor Fritz,Lorenzo Musetti,R,R,27.3,22.8,4.5,4,17,-13,5100,2600,2500
+Hard,G,R16,128,1736640000,Andrey Rublev,Daniil Medvedev,R,R,27.3,28.9,-1.6,8,5,3,3760,5030,-1270
+Hard,G,R16,128,1736640000,Novak Djokovic,Grigor Dimitrov,R,R,37.7,33.7,4,7,10,-3,3910,3350,560
+Hard,G,R16,128,1736640000,Jack Draper,Carlos Alcaraz,L,R,23.1,21.8,1.3,15,3,12,2685,7010,-4325
+Hard,G,R16,128,1736640000,Casper Ruud,Tommy Paul,R,R,26.1,27.7,-1.6,6,12,-6,4255,3145,1110
+Hard,G,R16,128,1736640000,Ugo Humbert,Alexander Zverev,L,R,26.6,27.8,-1.2,14,2,12,2765,7915,-5150

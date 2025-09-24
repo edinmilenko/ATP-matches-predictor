@@ -1,0 +1,65 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Nicolas Jarry,0.7773641,0.22263592,1
+Tristan Schoolkate,Taro Daniel,0.4862384,0.51376164,0
+Marcos Giron,Yannick Hanfmann,0.5452545,0.45474547,1
+Tomas Martin Etcheverry,Flavio Cobolli,0.44738308,0.55261695,0
+Hubert Hurkacz,Tallon Griekspoor,0.6305999,0.36940008,1
+Miomir Kecmanovic,Dusan Lajovic,0.56376487,0.43623513,1
+Matteo Berrettini,Cameron Norrie,0.5739529,0.4260471,1
+Zhang Zhizhen,Holger Rune,0.3254319,0.67456806,0
+Stefanos Tsitsipas,Alex Michelsen,0.665971,0.33402902,1
+James McCabe,Martin Landaluce,0.49482033,0.50517964,0
+Gabriel Diallo,Luca Nardi,0.55880743,0.44119257,1
+Adrian Mannarino,Karen Khachanov,0.34448373,0.65551627,0
+Francisco Cerundolo,Alexander Bublik,0.53771603,0.46228397,1
+Facundo Diaz Acosta,Zizou Bergs,0.51438004,0.48561996,1
+Tristan Boyer,Federico Coria,0.5205595,0.4794405,1
+Botic Van De Zandschulp,Alex De Minaur,0.3029039,0.6970961,0
+Taylor Fritz,Jenson Brooksby,0.7251245,0.27487552,1
+Borna Coric,Cristian Garin,0.5458113,0.4541887,1
+Francisco Comesana,Daniel Altmaier,0.56290597,0.43709403,1
+Gael Monfils,Giovanni Mpetshi Perricard,0.45710504,0.54289496,0
+Ben Shelton,Brandon Nakashima,0.57686514,0.42313486,1
+Pablo Carreno Busta,Kamil Majchrzak,0.5018404,0.4981596,1
+Roberto Bautista Agut,Denis Shapovalov,0.53146774,0.46853226,1
+Matteo Arnaldi,Lorenzo Musetti,0.41953632,0.58046365,0
+Andrey Rublev,Joao Fonseca,0.70325583,0.29674417,1
+Lorenzo Sonego,Stan Wawrinka,0.51760066,0.48239934,1
+Thiago Seyboth Wild,Fabian Marozsan,0.43012625,0.56987375,0
+Arthur Rinderknech,Frances Tiafoe,0.38424015,0.61575985,0
+Alexei Popyrin,Corentin Moutet,0.6188986,0.38110143,1
+Rinky Hijikata,Mitchell Krueger,0.58489454,0.41510546,1
+Camilo Ugo Carabelli,Learner Tien,0.46721938,0.53278065,0
+Kasidit Samrej,Daniil Medvedev,0.22274084,0.7772592,0
+Novak Djokovic,Nishesh Basavareddy,0.7751006,0.22489941,1
+Jaime Faria,Pavel Kotov,0.4436738,0.5563262,0
+Gauthier Onclin,Reilly Opelka,0.5360362,0.4639638,1
+Sumit Nagal,Tomas Machac,0.29239234,0.7076076,0
+Jiri Lehecka,Li Tu,0.71108323,0.28891677,1
+Hugo Gaston,Omar Jasika,0.5504484,0.44955158,1
+David Goffin,Benjamin Bonzi,0.6120608,0.3879392,1
+Francesco Passaro,Grigor Dimitrov,0.24211057,0.75788945,0
+Jack Draper,Mariano Navone,0.6966546,0.30334538,1
+Thanasi Kokkinakis,Roman Safiullin,0.45653775,0.5434623,0
+Damir Dzumhur,Aleksandar Vukic,0.5010959,0.4989041,1
+Lukas Klein,Sebastian Korda,0.26789257,0.7321074,0
+Jordan Thompson,Dominik Koepfer,0.6083309,0.3916691,1
+Alexandre Muller,Nuno Borges,0.42624322,0.5737568,0
+Yoshihito Nishioka,Aziz Dougaz,0.60976034,0.39023966,1
+Alexander Shevchenko,Carlos Alcaraz,0.20493929,0.7950607,0
+Casper Ruud,Jaume Munar,0.763729,0.23627102,1
+Nikoloz Basilashvili,Jakub Mensik,0.32223144,0.6777686,0
+Juncheng Shang,Alejandro Davidovich Fokina,0.50731826,0.49268174,1
+Jan Lennard Struff,Felix Auger Aliassime,0.40290603,0.59709394,0
+Alejandro Tabilo,Roberto Carballes Baena,0.6187832,0.38121682,1
+James Duckworth,Dominic Stricker,0.5465112,0.45348883,1
+Kei Nishikori,Thiago Monteiro,0.606014,0.393986,1
+Christopher Oconnell,Tommy Paul,0.27732646,0.72267354,0
+Ugo Humbert,Matteo Gigante,0.67345047,0.32654953,1
+Hady Habib,Bu Yunchaokete,0.39961892,0.6003811,0
+Adam Walton,Quentin Halys,0.48357186,0.5164281,0
+Otto Virtanen,Arthur Fils,0.30179173,0.6982083,0
+Sebastian Baez,Arthur Cazaux,0.6358425,0.3641575,1
+Jacob Fearnley,Nick Kyrgios,0.5661312,0.43386883,1
+Pedro Martinez,Luciano Darderi,0.46341455,0.53658545,0
+Lucas Pouille,Alexander Zverev,0.23530595,0.76469404,0

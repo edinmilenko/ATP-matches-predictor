@@ -1,0 +1,5 @@
+surface,tourney_level,round,draw_size,tourney_date_epoch,player_A_name,player_B_name,player_A_hand,player_B_hand,player_A_age,player_B_age,age_diff,player_A_rank,player_B_rank,rank_diff,player_A_rank_points,player_B_rank_points,rank_points_diff
+Hard,G,QF,128,1736640000,Jannik Sinner,Alex De Minaur,R,R,23.4,25.9,-2.5,1,9,-8,11830,3745,8085
+Hard,G,QF,128,1736640000,Taylor Fritz,Daniil Medvedev,R,R,27.3,28.9,-1.6,4,5,-1,5100,5030,70
+Hard,G,QF,128,1736640000,Novak Djokovic,Carlos Alcaraz,R,R,37.7,21.8,15.9,7,3,4,3910,7010,-3100
+Hard,G,QF,128,1736640000,Casper Ruud,Alexander Zverev,R,R,26.1,27.8,-1.7,6,2,4,4255,7915,-3660

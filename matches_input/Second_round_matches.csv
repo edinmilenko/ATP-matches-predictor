@@ -1,0 +1,33 @@
+surface,tourney_level,round,draw_size,tourney_date_epoch,player_A_name,player_B_name,player_A_hand,player_B_hand,player_A_age,player_B_age,age_diff,player_A_rank,player_B_rank,rank_diff,player_A_rank_points,player_B_rank_points,rank_points_diff
+Hard,G,R64,128,1736640000,Jannik Sinner,Taro Daniel,R,R,23.4,31.9,-8.5,1,84,-83,11830,674,11156
+Hard,G,R64,128,1736640000,Marcos Giron,Flavio Cobolli,R,R,31.5,22.7,8.8,46,32,14,1150,1472,-322
+Hard,G,R64,128,1736640000,Hubert Hurkacz,Miomir Kecmanovic,R,R,27.9,25.4,2.5,16,54,-38,2640,1021,1619
+Hard,G,R64,128,1736640000,Matteo Berrettini,Holger Rune,R,R,28.8,21.8,7,34,13,21,1380,3025,-1645
+Hard,G,R64,128,1736640000,Stefanos Tsitsipas,Martin Landaluce,R,R,26.5,19,7.5,11,151,-140,3165,383,2782
+Hard,G,R64,128,1736640000,Gabriel Diallo,Karen Khachanov,R,R,23.4,28.7,-5.3,87,19,68,643,2410,-1767
+Hard,G,R64,128,1736640000,Francisco Cerundolo,Facundo Diaz Acosta,R,L,26.5,24.1,2.4,30,79,-49,1620,714,906
+Hard,G,R64,128,1736640000,Tristan Boyer,Alex De Minaur,R,R,23.7,25.9,-2.2,133,9,124,452,3745,-3293
+Hard,G,R64,128,1736640000,Taylor Fritz,Borna Coric,R,R,27.3,28.2,-0.9,4,90,-86,5100,639,4461
+Hard,G,R64,128,1736640000,Francisco Comesana,Giovanni Mpetshi Perricard,R,R,24.3,21.5,2.8,85,31,54,661,1561,-900
+Hard,G,R64,128,1736640000,Ben Shelton,Pablo Carreno Busta,L,R,22.3,33.5,-11.2,21,196,-175,2330,292,2038
+Hard,G,R64,128,1736640000,Roberto Bautista Agut,Lorenzo Musetti,R,R,36.8,22.8,14,51,17,34,1104,2600,-1496
+Hard,G,R64,128,1736640000,Andrey Rublev,Lorenzo Sonego,R,R,27.3,29.7,-2.4,8,53,-45,3760,1026,2734
+Hard,G,R64,128,1736640000,Frances Tiafoe,Fabian Marozsan,R,R,27,25.3,1.7,18,58,-40,2585,935,1650
+Hard,G,R64,128,1736640000,Alexei Popyrin,Rinky Hijikata,R,R,26.4,23.9,2.5,24,73,-49,1865,746,1119
+Hard,G,R64,128,1736640000,Daniil Medvedev,Learner Tien,R,L,28.9,19.2,9.7,5,122,-117,5030,493,4537
+Hard,G,R64,128,1736640000,Novak Djokovic,Pavel Kotov,R,R,37.7,26.2,11.5,7,86,-79,3910,655,3255
+Hard,G,R64,128,1736640000,Gauthier Onclin,Tomas Machac,R,R,23.9,24.3,-0.4,232,25,207,251,1758,-1507
+Hard,G,R64,128,1736640000,Jiri Lehecka,Hugo Gaston,R,L,23.2,24.4,-1.2,28,76,-48,1660,717,943
+Hard,G,R64,128,1736640000,David Goffin,Grigor Dimitrov,R,R,34.1,33.7,0.4,52,10,42,1037,3350,-2313
+Hard,G,R64,128,1736640000,Jack Draper,Roman Safiullin,L,R,23.1,27.4,-4.3,15,60,-45,2685,923,1762
+Hard,G,R64,128,1736640000,Damir Dzumhur,Sebastian Korda,R,R,32.7,24.5,8.2,83,22,61,679,1985,-1306
+Hard,G,R64,128,1736640000,Jordan Thompson,Nuno Borges,R,R,30.8,27.9,2.9,26,36,-10,1745,1355,390
+Hard,G,R64,128,1736640000,Yoshihito Nishioka,Carlos Alcaraz,L,R,29.3,21.8,7.5,69,3,66,776,7010,-6234
+Hard,G,R64,128,1736640000,Casper Ruud,Jakub Mensik,R,R,26.1,19.4,6.7,6,48,-42,4255,1136,3119
+Hard,G,R64,128,1736640000,Juncheng Shang,Felix Auger Aliassime,L,R,19.9,24.4,-4.5,50,29,21,1115,1635,-520
+Hard,G,R64,128,1736640000,Alejandro Tabilo,James Duckworth,L,R,27.6,32.9,-5.3,23,82,-59,1943,687,1256
+Hard,G,R64,128,1736640000,Kei Nishikori,Tommy Paul,R,R,35,27.7,7.3,106,12,94,578,3145,-2567
+Hard,G,R64,128,1736640000,Ugo Humbert,Bu Yunchaokete,L,R,26.6,22.9,3.7,14,65,-51,2765,784,1981
+Hard,G,R64,128,1736640000,Arthur Fils,Quentin Halys,R,R,20.6,28.3,-7.7,20,72,-52,2355,756,1599
+Hard,G,R64,128,1736640000,Sebastian Baez,Jacob Fearnley,R,R,24,23.5,0.5,27,99,-72,1690,622,1068
+Hard,G,R64,128,1736640000,Alexander Zverev,Luciano Darderi,R,R,27.8,22.9,4.9,2,44,-42,7915,1198,6717
