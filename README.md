@@ -27,7 +27,7 @@ The ultimate goal is to forecast the results of the **Australian Open 2025**, us
 
 2. **Models Used**
    - **Random Forest** → baseline model, evaluated with accuracy, precision, recall, F1 and confusion matrix.
-- **Random Forest + Rolling Averages** → baseline model, evaluated with accuracy, precision, recall, F1 and confusion matrix.
+   - **Random Forest + Rolling Averages** → baseline model, evaluated with accuracy, precision, recall, F1 and confusion matrix.
 
    - **XGBoost with BayesSearchCV** → final model with Bayesian hyperparameter tuning, evaluated with accuracy, precision, recall, F1 and confusion matrix.
 .
