@@ -1,0 +1,33 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Taro Daniel,0.7997852,0.2002148,1
+Marcos Giron,Flavio Cobolli,0.43561223,0.5643878,0
+Hubert Hurkacz,Miomir Kecmanovic,0.63993424,0.36006576,1
+Matteo Berrettini,Holger Rune,0.4060106,0.5939894,0
+Stefanos Tsitsipas,Martin Landaluce,0.77280796,0.22719204,1
+Gabriel Diallo,Karen Khachanov,0.30630878,0.69369125,0
+Francisco Cerundolo,Facundo Diaz Acosta,0.6189962,0.3810038,1
+Tristan Boyer,Alex De Minaur,0.28129297,0.718707,0
+Taylor Fritz,Borna Coric,0.7055432,0.29445678,1
+Francisco Comesana,Giovanni Mpetshi Perricard,0.36376774,0.63623226,0
+Ben Shelton,Pablo Carreno Busta,0.65912235,0.34087765,1
+Roberto Bautista Agut,Lorenzo Musetti,0.42717743,0.5728226,0
+Andrey Rublev,Lorenzo Sonego,0.7164728,0.2835272,1
+Frances Tiafoe,Fabian Marozsan,0.62069446,0.37930554,1
+Alexei Popyrin,Rinky Hijikata,0.59122896,0.40877104,1
+Daniil Medvedev,Learner Tien,0.7600847,0.23991531,1
+Novak Djokovic,Pavel Kotov,0.7800194,0.2199806,1
+Gauthier Onclin,Tomas Machac,0.32027304,0.67972696,0
+Jiri Lehecka,Hugo Gaston,0.6570794,0.3429206,1
+David Goffin,Grigor Dimitrov,0.339736,0.660264,0
+Jack Draper,Roman Safiullin,0.66571677,0.33428323,1
+Damir Dzumhur,Sebastian Korda,0.3022578,0.6977422,0
+Jordan Thompson,Nuno Borges,0.5487728,0.4512272,1
+Yoshihito Nishioka,Carlos Alcaraz,0.20672174,0.7932783,0
+Casper Ruud,Jakub Mensik,0.68524647,0.31475353,1
+Juncheng Shang,Felix Auger Aliassime,0.4137373,0.5862627,0
+Alejandro Tabilo,James Duckworth,0.6992673,0.30073267,1
+Kei Nishikori,Tommy Paul,0.34675494,0.6532451,0
+Ugo Humbert,Bu Yunchaokete,0.5992224,0.40077758,1
+Arthur Fils,Quentin Halys,0.71218926,0.28781074,1
+Sebastian Baez,Jacob Fearnley,0.61822414,0.38177586,1
+Alexander Zverev,Luciano Darderi,0.7679592,0.23204082,1

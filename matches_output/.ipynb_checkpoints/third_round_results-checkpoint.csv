@@ -1,0 +1,17 @@
+player_A_name,player_B_name,A_win_probability,B_win_probability,predicted_winner
+Jannik Sinner,Flavio Cobolli,0.77384496,0.22615504,1
+Hubert Hurkacz,Holger Rune,0.46582374,0.53417623,0
+Stefanos Tsitsipas,Karen Khachanov,0.60323197,0.39676803,1
+Francisco Cerundolo,Alex De Minaur,0.36491126,0.63508874,0
+Taylor Fritz,Giovanni Mpetshi Perricard,0.6717197,0.32828033,1
+Ben Shelton,Lorenzo Musetti,0.4833927,0.5166073,0
+Andrey Rublev,Frances Tiafoe,0.61554796,0.38445204,1
+Alexei Popyrin,Daniil Medvedev,0.2565386,0.7434614,0
+Novak Djokovic,Tomas Machac,0.69373393,0.30626607,1
+Jiri Lehecka,Grigor Dimitrov,0.3900071,0.60999286,0
+Jack Draper,Sebastian Korda,0.53796756,0.46203244,1
+Jordan Thompson,Carlos Alcaraz,0.2287967,0.7712033,0
+Casper Ruud,Felix Auger Aliassime,0.6517959,0.34820408,1
+Alejandro Tabilo,Tommy Paul,0.40688294,0.59311706,0
+Ugo Humbert,Arthur Fils,0.50012,0.49988002,1
+Sebastian Baez,Alexander Zverev,0.2623414,0.7376586,0

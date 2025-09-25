@@ -1,0 +1,12 @@
+Round,Accuracy per match,"Accuracy per expected scoreboard
+"
+1T,65.63%,65.63%
+2T,64.29%,53.13%
+3T,75%,56.25%
+4T,100%,62.50%
+QF,50%,50%
+SF,- (None of the semifinals matches existed),50%
+F,- (One of the two players predicted by the model was incorrect),100%
+,,
+Accuracy per match: Match-by-match comparisons of the actual tournament (this means that if a match didnt occur it doesnt count for the winning percentage),,
+Accuracy per expected scoreboard: how many of the players arriving in each round had already been predicted by the model,,

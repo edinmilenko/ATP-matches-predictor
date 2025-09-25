@@ -468,6 +468,14 @@ disp_xg = ConfusionMatrixDisplay(confusion_matrix=cm_xg)
 disp_xg.plot()
 
 
+# In[1]:
+
+
+# After comparing the 3 different clasifiers and calculating their accuracy, precision, recall, F1-score and confusion matrix,
+# XGBoost clearly is the best, so we are going to be training the XGBoost model and then trying to predict future matches.
+# Australian Open 2025 will be the tournament predicted based off all the matches from January 2000 up to December 2024.
+
+
 # # Measuring feature importance
 
 # In[61]:
@@ -480,8 +488,8 @@ import matplotlib.pyplot as plt
 xgboost_step = opt.best_estimator_.steps[1]
 xgboost_model = xgboost_step[1]
 
-plt.figure(figsize=(10, 8))  # ingrandisce la figura
-plot_importance(xgboost_model, max_num_features=20)  # mostra solo le 20 più importanti
+plt.figure(figsize=(10, 8))  # it zooms the graph so it is more readable
+plot_importance(xgboost_model, max_num_features=20)  # it shows the top 20 features
 plt.show()
 
 
