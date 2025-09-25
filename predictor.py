@@ -87,7 +87,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 #n_estimators = the higher this is the more is takes to execute but potentially more accurate 
 #min_samples_split = the higher this is the less accuracy but less overfitting
 #random_state = if we run the random forest multiple time we are going to get the same result as long as the data remains the same
-rf = RandomForestClassifier(n_estimators=10, min_samples_split=2, random_state=1)
+rf = RandomForestClassifier(n_estimators=100, min_samples_split=10, random_state=1)
 
 
 # In[6]:
