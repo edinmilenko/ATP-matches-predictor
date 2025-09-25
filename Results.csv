@@ -5,8 +5,8 @@ Round,Accuracy per match,"Accuracy per expected scoreboard
 3T,75%,56.25%
 4T,100%,62.50%
 QF,50%,50%
-SF,(No SF matches existed),50%
-F,(Alcaraz didnt reach the F),100%
+SF,- (No SF matches existed),50%
+F,- (Alcaraz didnt reach the F),100%
 ,,
 Accuracy per match: Match-by-match comparisons of the actual tournament (this means that if a match didnt occur it doesnt count for the winning percentage),,
 Accuracy per expected scoreboard: how many of the players arriving in each round had already been predicted by the model,,
