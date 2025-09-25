@@ -70,9 +70,3 @@ pip install pandas scikit-learn xgboost scikit-optimize category_encoders matplo
 3. Results will be available in the `matches_output/` folder.
 
 ---
-
-## 🚀 Possible Extensions
-
-- Add advanced features (e.g. Elo rating, weather conditions, surface-specific performance).
-- Compare with other algorithms (LightGBM, Neural Networks).
-- Build an interactive dashboard to explore predictions.
